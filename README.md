@@ -1,3 +1,1 @@
 # autonomous-wheelchair-docking
-
-# Yogi
